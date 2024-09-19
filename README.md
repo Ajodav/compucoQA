@@ -1,5 +1,7 @@
 Compuco (CiviCRM) QA Task
+
 Summary
+
 This automation script covers the basic functionalities around Login, Contact & Relationships. Test scripts were set to execute sequencially
 
 for full test cases please go to https://docs.google.com/spreadsheets/d/15UYbfsFam-vwhG06on5iCQ9IWmh7yOhAvH8qeuf5BbA/edit?usp=sharing
